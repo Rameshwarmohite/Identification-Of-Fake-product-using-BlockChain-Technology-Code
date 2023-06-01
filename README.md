@@ -16,6 +16,10 @@ Application has been designed using JSP(Java server pages) and HTML, CSS. All ne
 2. Scan product qr code for product information.
 3. Login using phone number and password.
 
+## Download Android app from here :
+
+  https://github.com/SohamGugalgave/Identification-Of-Fake-product-using-BlockChain-Technology-Code/blob/main/app-debug.apk
+
 
 Please feel free to comment for any clarification or suggestion.
 
