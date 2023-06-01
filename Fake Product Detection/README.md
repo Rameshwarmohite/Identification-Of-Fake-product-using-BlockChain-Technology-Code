@@ -21,7 +21,7 @@ Please feel free to comment for any clarification or suggestion.
 
 ###Screen shots: 
 
-<a href="url"><img src="https://github.com/SohamGugalgave/Identification-Of-Fake-product-using-BlockChain-Technology-Code/blob/main/Fake%20Product%20Detection/screenshot/Home%20Web1.jpg" align="center" height="380" width="400" ></a>
+<a href="url"><img src="https://github.com/SohamGugalgave/Identification-Of-Fake-product-using-BlockChain-Technology-Code/blob/main/Fake%20Product%20Detection/screenshot/Home%20Web1.jpg" align="center" height="400" width="550" ></a>
 
 <a href="url"><img src="https://github.com/SohamGugalgave/Identification-Of-Fake-product-using-BlockChain-Technology-Code/blob/main/Fake%20Product%20Detection/screenshot/flashscreen.jpg" align="left" height="380" width="240" ></a>
 
@@ -30,7 +30,7 @@ Please feel free to comment for any clarification or suggestion.
 
 <a href="url"><img src="https://github.com/SohamGugalgave/Identification-Of-Fake-product-using-BlockChain-Technology-Code/blob/main/Fake%20Product%20Detection/screenshot/product%20details.jpg" align="left" height="380" width="240" ></a>
 
-<a href="url"><img src="https://github.com/MukeshKumar009/EcomSample/blob/master/screenshots/Screenshot_2016-11-04-11-17-56-774_com.allandroidprojects.ecomsample.png" align="left" height="380" width="240" ></a>
+<a href="url"><img src="https://github.com/SohamGugalgave/Identification-Of-Fake-product-using-BlockChain-Technology-Code/blob/main/Fake%20Product%20Detection/screenshot/scan%20qr%20code.jpg" align="left" height="380" width="240" ></a>
 
-<a href="url"><img src="https://github.com/MukeshKumar009/EcomSample/blob/master/screenshots/Screenshot_2016-11-04-11-18-40-835_com.allandroidprojects.ecomsample.png" align="left" height="380" width="240" ></a>
+<a href="url"><img src="https://github.com/SohamGugalgave/Identification-Of-Fake-product-using-BlockChain-Technology-Code/blob/main/Fake%20Product%20Detection/screenshot/show%20all%20products.jpg" align="left" height="380" width="240" ></a>
 
