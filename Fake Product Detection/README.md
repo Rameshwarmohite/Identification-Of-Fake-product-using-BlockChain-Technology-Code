@@ -34,3 +34,5 @@ Please feel free to comment for any clarification or suggestion.
 
 <a href="url"><img src="https://github.com/SohamGugalgave/Identification-Of-Fake-product-using-BlockChain-Technology-Code/blob/main/Fake%20Product%20Detection/screenshot/show%20all%20products.jpg" align="left" height="380" width="240" ></a>
 
+<a href="url"><img src="https://github.com/SohamGugalgave/Identification-Of-Fake-product-using-BlockChain-Technology-Code/blob/main/Fake%20Product%20Detection/screenshot/scan%20qr.jpg" align="left" height="380" width="240" ></a>
+
