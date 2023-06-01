@@ -1,0 +1,43 @@
+<!--
+To change this template, choose Tools | Templates
+and open the template in the editor.
+-->
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+    <link rel="stylesheet" href="popup.css" type="text/css">
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script>
+//your jquery script here
+$(document).ready(function () {
+
+    //select the POPUP FRAME and show it
+    $("#popup").hide().fadeIn(1000);
+
+    //close the POPUP if the button with id="close" is clicked
+    $("#close").on("click", function (e) {
+        e.preventDefault();
+        $("#popup").fadeOut(1000);
+    });
+
+});
+</script>
+
+</head>
+<body>
+    <!-- let's call the following div as the POPUP FRAME -->
+<div id="popup">
+
+    <!-- and here comes the image -->
+    <img src="C://Users/SHRI/Desktop/firstscreen.jpg" alt="popup">
+
+        <!-- Now this is the button which closes the popup-->
+        <button id="close">Close button</button>
+
+        <!-- and finally we close the POPUP FRAME-->
+        <!-- everything on it will show up within the popup so you can add more things not just an image -->
+</div>
+</body>
+</html>

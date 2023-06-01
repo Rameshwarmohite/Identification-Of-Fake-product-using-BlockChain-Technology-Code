@@ -1,0 +1,88 @@
+<resources>
+    <string name="app_name">Fake Product Detection</string>
+    <string name="FCM_PREF">info.androidhive.grampanchayat.fcm_pref</string>
+    <string name="FCM_TOKEN">info.androidhive.grampanchayat.fcm_token</string>
+    <string name="check_network">Please check your network connection</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!--Menu item texts -->
+    <string name="action_settings">Settings</string>
+    <string name="action_search">Search</string>
+    <string name="action_cart">Cart</string>
+    <string name="action_notifications">Notifications</string>
+
+    <string name="item_1">Scan Item</string>
+    <string name="item_2">Main Items</string>
+
+    <string name="my_profile">My Profile</string>
+    <string name="my_rewards">My Rewards</string>
+    <string name="nav_logout">Logout</string>
+    <string name="my_orders">My Orders</string>
+    <string name="my_cart">My Cart</string>
+    <string name="my_wishlist">My Wishlist</string>
+    <string name="my_account">My Account</string>
+
+    <string name="help_support">Help \u0026 Support</string>
+    <string name="contact_us">About Us</string>
+    <string name="terms_conditions">Terms \u0026 Conditions</string>
+    <string name="help_center">Contact Us</string>
+
+    <string name="search_hint">Search for Products, Brands and More</string>
+
+
+    <!--Intro slider texts -->
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">घोडके बंधु  भेळवाले!</string>
+    <string name="slide_1_desc">बारामती मधील नं. एकची भेळ म्हणून घोडके भेळ प्रसिद्ध आहे!
+    </string>
+
+    <string name="slide_2_title">३० वर्ष पूर्ण !</string>
+    <string name="slide_2_desc">१९७६ मध्ये आमच्या वडिलांनी भेळीचा व्यवसाय सुरू केला. आज त्याला ३० वर्ष पूर्ण झाली आहेत !</string>
+
+    <string name="slide_3_title">ग्राहकांची पसंती</string>
+    <string name="slide_3_desc"> केवळ ग्राहकांच्या पसंतीस घोडके भेळ उतरल्याने आम्ही ३० वर्ष पूर्ण करू शकलो!</string>
+
+    <string name="slide_4_title">online भेळ ऑर्डर</string>
+    <string name="slide_4_desc">काळ जसा बदलत आहे तसा बदल आपणही केला पाहिजे याच विचारातून आम्ही online भेळ ऑर्डर हा नवा उपक्रम बारामती मध्ये सुरू करत आहोत!</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome
+        slider -> clear data
+    </string>
+    <string name="play_again">Play Again</string>
+    <string name="rupee">₹</string>
+    <string name="title_activity_my_account">My Account</string>
+    <string name="title_home">My Profile</string>
+    <string name="title_dashboard">Address</string>
+    <string name="title_notifications">Notifications</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="username_error">Enter Username</string>
+    <string name="mobile_error">Enter Mobile</string>
+    <string name="email_error">Enter Email</string>
+    <string name="address_error">Enter delivery address</string>
+    <string name="zip_code_error">Enter Pin-code</string>
+    <string name="password_error">Enter password</string>
+    <string name="google_api">AIzaSyBG_22eEt2RNRe_iXjaILLi0kSz7jRpS_4</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_search_on_map">Map</string>
+    <string name="about_us">बारामती मधील नं एकची भेळ म्हणून घोडके भेळ प्रसिद्ध आहे. आम्ही या व्यवसायात ग्राहकांकरीता नेहमीच नवे फंडे सोधले आहेत .
+                            काळजी गरज ओळखून सातत्यानी नवनवीन बदल करीत असल्याने घोडके भेळ हे नाव संपूर्ण तालुक्यात नावारूपाला आलेल आहे .
+                            स्वचता हिच ग्राहक सेवा अस आम्ही मानतो. १९७६ मध्ये आमच्या वडिलांनी भेळीचा व्यवसाय सुरू केला. आज त्याला ३० वर्ष पूर्ण झाली आहेत.
+                            केवळ ग्राहकांच्या पसंतीस घोडके भेळ उतरल्याने आम्ही ३० वर्ष पूर्ण करू शकलो परंतु काळ जसा बदलत आहे तसा बदल आपणही केला पाहिजे याच
+                            विचारातून आम्ही online भेळ ऑर्डर हा नवा उपक्रम बारामती मध्ये सुरू करत आहोत.
+    </string>
+    <string name="termsconditions">
+        \u2022 अगदी माफक सेवा शुल्कामध्ये घरपोच सेवा उपलब्ध.\n\n
+        \u2022 ऑर्डरप्रमाणे सामोसे तयार करून मिळतील.\n\n
+        \u2022 आम्ही ७ कि.मी. पर्यंत घरपोच सेवा पुरवतो.\n\n
+        \u2022 एकदा दिलेली ऑर्डर रद्द करता येणार नाही.\n
+
+</string>
+    <string name="get_product_details">Get Product Details</string>
+    <string name="enter_trolley_id">Enter Trolley Id</string>
+</resources>

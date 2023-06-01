@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/G:/Fake%20product%20detetction/Identification%20Of%20Fake%20product%20using%20BlockChain%20Technology%20Code/OnlinePayment/web/index.jsp</file>
+            <file>file:/G:/Fake%20product%20detetction/Identification%20Of%20Fake%20product%20using%20BlockChain%20Technology%20Code/OnlinePayment/src/java/pack/AES.java</file>
+            <file>file:/G:/Fake%20product%20detetction/Identification%20Of%20Fake%20product%20using%20BlockChain%20Technology%20Code/OnlinePayment/src/java/pack/Order.java</file>
+            <file>file:/G:/Fake%20product%20detetction/Identification%20Of%20Fake%20product%20using%20BlockChain%20Technology%20Code/OnlinePayment/src/java/pack/Item.java</file>
+            <file>file:/G:/Fake%20product%20detetction/Identification%20Of%20Fake%20product%20using%20BlockChain%20Technology%20Code/OnlinePayment/web/WEB-INF/web.xml</file>
+            <file>file:/G:/Fake%20product%20detetction/Identification%20Of%20Fake%20product%20using%20BlockChain%20Technology%20Code/OnlinePayment/src/java/blockchain/BlockChain.java</file>
+            <file>file:/G:/Fake%20product%20detetction/Identification%20Of%20Fake%20product%20using%20BlockChain%20Technology%20Code/OnlinePayment/src/java/blockchain/TransactionOutput.java</file>
+            <file>file:/G:/Fake%20product%20detetction/Identification%20Of%20Fake%20product%20using%20BlockChain%20Technology%20Code/OnlinePayment/src/java/action/GenerateQR.java</file>
+            <file>file:/G:/Fake%20product%20detetction/Identification%20Of%20Fake%20product%20using%20BlockChain%20Technology%20Code/OnlinePayment/web/AdminHome.jsp</file>
+            <file>file:/G:/Fake%20product%20detetction/Identification%20Of%20Fake%20product%20using%20BlockChain%20Technology%20Code/OnlinePayment/src/java/pack/MailUtil.java</file>
+            <file>file:/G:/Fake%20product%20detetction/Identification%20Of%20Fake%20product%20using%20BlockChain%20Technology%20Code/OnlinePayment/web/META-INF/context.xml</file>
+            <file>file:/G:/Fake%20product%20detetction/Identification%20Of%20Fake%20product%20using%20BlockChain%20Technology%20Code/OnlinePayment/src/java/action/CreateOtp.java</file>
+            <file>file:/G:/Fake%20product%20detetction/Identification%20Of%20Fake%20product%20using%20BlockChain%20Technology%20Code/OnlinePayment/src/java/services/UserLogin.java</file>
+            <file>file:/G:/Fake%20product%20detetction/Identification%20Of%20Fake%20product%20using%20BlockChain%20Technology%20Code/OnlinePayment/src/java/action/addcard.java</file>
+            <file>file:/G:/Fake%20product%20detetction/Identification%20Of%20Fake%20product%20using%20BlockChain%20Technology%20Code/OnlinePayment/web/AddElectronics.jsp</file>
+            <file>file:/G:/Fake%20product%20detetction/Identification%20Of%20Fake%20product%20using%20BlockChain%20Technology%20Code/OnlinePayment/src/java/services/DetectProduct.java</file>
+            <file>file:/G:/Fake%20product%20detetction/Identification%20Of%20Fake%20product%20using%20BlockChain%20Technology%20Code/OnlinePayment/src/java/action/CreateImage.java</file>
+            <file>file:/G:/Fake%20product%20detetction/Identification%20Of%20Fake%20product%20using%20BlockChain%20Technology%20Code/OnlinePayment/src/java/blockchain/StringUtil.java</file>
+            <file>file:/G:/Fake%20product%20detetction/Identification%20Of%20Fake%20product%20using%20BlockChain%20Technology%20Code/OnlinePayment/web/AddMens.jsp</file>
+            <file>file:/G:/Fake%20product%20detetction/Identification%20Of%20Fake%20product%20using%20BlockChain%20Technology%20Code/OnlinePayment/src/java/action/addelectronics.java</file>
+            <file>file:/G:/Fake%20product%20detetction/Identification%20Of%20Fake%20product%20using%20BlockChain%20Technology%20Code/OnlinePayment/src/java/pack/DBConnection.java</file>
+            <file>file:/G:/Fake%20product%20detetction/Identification%20Of%20Fake%20product%20using%20BlockChain%20Technology%20Code/OnlinePayment/src/java/action/addmens.java</file>
+            <file>file:/G:/Fake%20product%20detetction/Identification%20Of%20Fake%20product%20using%20BlockChain%20Technology%20Code/OnlinePayment/src/java/blockchain/Block.java</file>
+            <file>file:/G:/Fake%20product%20detetction/Identification%20Of%20Fake%20product%20using%20BlockChain%20Technology%20Code/OnlinePayment/src/java/action/HashSet.java</file>
+        </group>
+    </open-files>
+</project-private>

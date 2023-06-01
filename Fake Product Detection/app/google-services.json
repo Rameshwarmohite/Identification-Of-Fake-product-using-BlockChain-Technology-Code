@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "306120396108",
+    "firebase_url": "https://bhel-d650f.firebaseio.com",
+    "project_id": "bhel-d650f",
+    "storage_bucket": "bhel-d650f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306120396108:android:8b87907a53d59f78",
+        "android_client_info": {
+          "package_name": "com.phoenixzone.bhel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "306120396108-rnf2k3r74d3qpe5lurc3si5aeeuc42qm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgcL7pdubSCVTJswQcXSZv-7fjoDoi3ro"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
