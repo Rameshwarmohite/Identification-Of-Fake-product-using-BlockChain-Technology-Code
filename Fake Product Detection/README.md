@@ -1,6 +1,6 @@
 ## Fake product detection using blockchain technology android app and web application
 
-In the proposed system we are assigning a generated QR code to a particular product and the end customer can scan that QR code to get all information about that 
+In this project we are assigning a generated QR code to a particular product and the end customer can scan that QR code to get all information about that 
 product. After scanning the QR code we can identify that the product is real or fake. So here is the Fake product detection app with complete source code available in github. Sample app is available this respository.
 
 Application has been designed using JSP(Java server pages) and HTML, CSS. All new features like top eCommerce application have been added in this web-app. The android app is best practice for Android Developers.
